@@ -1,0 +1,5 @@
+[rules]
+multiple_statements = "deny"
+
+[config.multiple_statements]
+one_line_if = "allow"
